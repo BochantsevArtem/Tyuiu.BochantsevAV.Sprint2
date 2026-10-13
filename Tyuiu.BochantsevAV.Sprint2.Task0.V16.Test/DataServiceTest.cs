@@ -21,7 +21,6 @@ namespace Tyuiu.BochantsevAV.Sprint2.Task0.V16.Test
                 false
             };
 
-
             CollectionAssert.AreEqual(expected, result);
         }
     }
