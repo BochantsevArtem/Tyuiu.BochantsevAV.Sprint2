@@ -10,7 +10,7 @@ namespace Tyuiu.BochantsevAV.Sprint2.Task4.V17
             Console.Title = "Спринт #1 | Выполнил: Бочанцев А.В | ИИПБ-26-1";
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #1                                                               *");
+            Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Тернарный оператор                                                *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #17                                                             *");

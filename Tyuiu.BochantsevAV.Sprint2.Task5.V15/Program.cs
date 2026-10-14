@@ -10,7 +10,7 @@ namespace Tyuiu.BochantsevAV.Sprint2.Task5.V15
             Console.Title = "Спринт #1 | Выполнил: Бочанцев А.В | ИИПБ-26-1";
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт #1                                                               *");
+            Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Оператор switch                                                   *");
             Console.WriteLine("* Задание #5                                                              *");
             Console.WriteLine("* Вариант #15                                                             *");
